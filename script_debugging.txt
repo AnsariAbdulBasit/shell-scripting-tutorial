@@ -1,0 +1,8 @@
+bash -x script.sh
+
+#! /bin/bash -x
+
+set -x
+-----
+-----
+set +x
