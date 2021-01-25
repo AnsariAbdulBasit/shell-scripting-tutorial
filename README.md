@@ -3,9 +3,7 @@
 This Tutorials is for beginners and following topics are covered.
 
 1-Hello Bash Scripting
-
 2-Redirect to file
-
 3-Comments
 4-Conditional Statements
 5-Loops
