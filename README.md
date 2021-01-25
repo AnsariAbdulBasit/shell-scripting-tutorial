@@ -2,6 +2,8 @@
 
 This Tutorials is for beginners and following topics are covered.
 
+
+
 1-Hello Bash Scripting
 2-Redirect to file
 3-Comments
